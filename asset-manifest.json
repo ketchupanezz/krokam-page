@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/krokam-page/static/css/main.31d6cfe0.css",
+    "main.js": "/krokam-page/static/js/main.84e181f2.js",
+    "index.html": "/krokam-page/index.html",
+    "main.84e181f2.js.map": "/krokam-page/static/js/main.84e181f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.84e181f2.js"
+  ]
+}

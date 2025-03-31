@@ -1,0 +1,32 @@
+.projects {
+    background-color: var(--backBlueColor);
+    padding: 80px 0;
+}
+
+.projects h2 {
+    margin-bottom: 40px;
+}
+
+.projects__cards-table {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px 36px;
+}
+
+.projects__card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    width: 255px;
+    cursor: pointer;
+}
+
+.projects__card > span {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+}
+

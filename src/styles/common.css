@@ -1,0 +1,31 @@
+:root {
+    --font-family: "Roboto", sans-serif;
+
+    --btn: #f89422;
+    --gray: #7f7f7f;
+
+    --backColor: #f4f0ef;
+    --backBlueColor: #395c7a;
+}
+
+body {
+    font-family: var(--font-family);
+    color: var(--textColor);
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 1128px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 40px;
+    color: #fff;
+}
+
+
+

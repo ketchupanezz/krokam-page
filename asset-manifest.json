@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/krokam-page/static/css/main.31d6cfe0.css",
-    "main.js": "/krokam-page/static/js/main.84e181f2.js",
+    "main.css": "/krokam-page/static/css/main.8bee5502.css",
+    "main.js": "/krokam-page/static/js/main.bd5b07df.js",
+    "static/media/img.png": "/krokam-page/static/media/img.1b191e0995fe0b612a44.png",
+    "static/media/logo-6.svg": "/krokam-page/static/media/logo-6.cf2d8e2b1771dc635a0bfbccf7856234.svg",
     "index.html": "/krokam-page/index.html",
-    "main.84e181f2.js.map": "/krokam-page/static/js/main.84e181f2.js.map"
+    "static/media/Frame.svg": "/krokam-page/static/media/Frame.6cc83c7a934f7e427bf696b277600757.svg",
+    "main.8bee5502.css.map": "/krokam-page/static/css/main.8bee5502.css.map",
+    "main.bd5b07df.js.map": "/krokam-page/static/js/main.bd5b07df.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.84e181f2.js"
+    "static/css/main.8bee5502.css",
+    "static/js/main.bd5b07df.js"
   ]
 }

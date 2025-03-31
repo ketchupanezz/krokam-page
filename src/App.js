@@ -3,6 +3,7 @@ import About from "./components/about/About";
 import Video from "./components/video/Video";
 import Projects from "./components/projects/Projects";
 import Form from "./components/form/Form";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Video />
       <Projects />
       <Form />
+      <Footer />
     </div>
   );
 }

@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/krokam-page/static/css/main.8bee5502.css",
-    "main.js": "/krokam-page/static/js/main.bd5b07df.js",
+    "main.css": "/krokam-page/static/css/main.866b0f02.css",
+    "main.js": "/krokam-page/static/js/main.b821b1bb.js",
     "static/media/img.png": "/krokam-page/static/media/img.1b191e0995fe0b612a44.png",
+    "static/media/video.png": "/krokam-page/static/media/video.695f57d5a3e4d28b16cf.png",
+    "static/media/img (2).png": "/krokam-page/static/media/img (2).06b703809bc275bf3c12.png",
+    "static/media/img (1).png": "/krokam-page/static/media/img (1).525d772f1b44eb5b1c5e.png",
+    "static/media/img (9).png": "/krokam-page/static/media/img (9).436ef0ec092a5d306893.png",
+    "static/media/img (3).png": "/krokam-page/static/media/img (3).774c0ec5f873133a855c.png",
+    "static/media/img (8).png": "/krokam-page/static/media/img (8).04fad56d7a2dc77092d8.png",
+    "static/media/img (5).png": "/krokam-page/static/media/img (5).2a18dbff8c42c2839c2a.png",
+    "static/media/img (6).png": "/krokam-page/static/media/img (6).60abe897bd95d9ab17a2.png",
+    "static/media/img (4).png": "/krokam-page/static/media/img (4).3888c207648b8f87a0e4.png",
+    "static/media/img (10).png": "/krokam-page/static/media/img (10).5d2ff069b250cb31c31a.png",
     "static/media/logo-6.svg": "/krokam-page/static/media/logo-6.cf2d8e2b1771dc635a0bfbccf7856234.svg",
+    "static/media/youtube.svg": "/krokam-page/static/media/youtube.5e2d4b39f40488eb66eab40353611ee5.svg",
     "index.html": "/krokam-page/index.html",
     "static/media/Frame.svg": "/krokam-page/static/media/Frame.6cc83c7a934f7e427bf696b277600757.svg",
-    "main.8bee5502.css.map": "/krokam-page/static/css/main.8bee5502.css.map",
-    "main.bd5b07df.js.map": "/krokam-page/static/js/main.bd5b07df.js.map"
+    "static/media/flowerHead.svg": "/krokam-page/static/media/flowerHead.ca169844d2a1d8cf86720e3c4daa0cb9.svg",
+    "main.866b0f02.css.map": "/krokam-page/static/css/main.866b0f02.css.map",
+    "main.b821b1bb.js.map": "/krokam-page/static/js/main.b821b1bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bee5502.css",
-    "static/js/main.bd5b07df.js"
+    "static/css/main.866b0f02.css",
+    "static/js/main.b821b1bb.js"
   ]
 }

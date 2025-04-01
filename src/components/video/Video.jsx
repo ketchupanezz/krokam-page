@@ -1,5 +1,4 @@
 import './video.css';
-import videoImg from './../../img/video.png';
 import flowerHeadImg from './../../img/figurs/flowerHead.svg';
 
 const Video = () => {
@@ -16,7 +15,16 @@ const Video = () => {
                 </div>
             </div>
             
-            <img className="video__main-img" src={videoImg} alt='video' />
+            <div className="video__embed-container">
+                    <iframe 
+                        width="100%" 
+                        height="100%"
+                        src="https://www.youtube.com/embed/Azb6KS38RCI?autoplay=0&controls=1" 
+                        title="YouTube video player"
+                        allow="accelerometer; encrypted-media; picture-in-picture"
+                        allowFullScreen
+                    ></iframe>
+            </div>
         </div>
     </section>
 
